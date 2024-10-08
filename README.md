@@ -1,5 +1,1 @@
-# Streamlit-sentiment-ina
-
-link App : https://skripsweet-yxemsqfekqdvay638e7lqb.streamlit.app/
-
-Streamlit sentiment indonesia
+# Sentimen Analisis Aplikasi JKN Mobile Menggunakan Algoritma Berth
